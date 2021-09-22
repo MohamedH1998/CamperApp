@@ -2,6 +2,8 @@
 
 Full-stack application that enables users to view various campground locations around the world and create their own.
 
+Live demo: https://the-camperapp.herokuapp.com/
+
 # Description
 
 The application uses various APIs to render maps to pinpoint the location of the campgrounds created and to upload images.
